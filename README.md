@@ -4,6 +4,7 @@ Untuk seleksi kali ini, merupakan pertama kali saya mengikutinya.
 Berikut perlengkapan yang saya gunakan.
 
 OS : UBUNTU 20.04
+
 SOFTWARE :
   - VSCODE
   - FIREFOX
