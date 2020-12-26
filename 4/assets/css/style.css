@@ -1,0 +1,89 @@
+
+.logo a, .footer-logo a, .mobile-nav a {
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mobile-nav a {
+    font-size: 20px;
+}
+
+.single-products-catagory h4{
+    color: white;
+    /* font-weight: bold; */
+    padding: 0 5px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.form-contact {
+    width: 100%;
+    font-family: "Arial", Times, serif;
+}
+
+.form-contact-input {
+    width: 100%;
+    color: #292929;
+    font-size: 16px;
+    /* background-color: #E9E9E9; */
+    border: 1px solid #E9E9E9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-indent: 20px;
+}
+
+.form-contact-textarea {
+    width: 100%;
+    color: #292929;
+    font-size: 16px;
+    /* background-color: #E9E9E9; */
+    border: 1px solid #E9E9E9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-indent: 20px;
+    padding-top: 16px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.col-lg-8 .single_widget_area a {
+    margin: 0 30px;
+    font-size: 40px;
+    color: white;
+}
+
+.col-lg-8 .single_widget_area a:hover {
+    color: orange;
+}
+
+.about {
+    margin-left: 20px;
+    height: max-content;
+}
+
+.about .garis {
+    width: 50px;
+    border-bottom: 3px solid orange;
+}
+
+.about img {
+    position: relative;
+    width: 100%;
+}
+
+.about p {
+    position: relative;
+    width: 100%;
+}
